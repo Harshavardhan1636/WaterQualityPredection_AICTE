@@ -83,9 +83,9 @@ The model is deployed as an interactive web application using **Streamlit**, whe
 
 ---
 
-## 📎 Repository Link
+## 📎 Model Link
 
-GitHub Repo: [https://drive.google.com/file/d/1cbPK-t4-2fM-dEszux2dtkEiTvha5usQ/view?usp=drive_link](https://drive.google.com/file/d/1cbPK-t4-2fM-dEszux2dtkEiTvha5usQ/view?usp=drive_link)]
+[https://drive.google.com/file/d/1cbPK-t4-2fM-dEszux2dtkEiTvha5usQ/view?usp=drive_link](https://drive.google.com/file/d/1cbPK-t4-2fM-dEszux2dtkEiTvha5usQ/view?usp=drive_link)
 
 ---
 
